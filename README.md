@@ -2,6 +2,7 @@
 
 * MVVM
 * Fragments
+* ViewBinding
 * Navigation Component
 * SafeArgs
 * ViewModel
