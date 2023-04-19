@@ -1,6 +1,6 @@
 package com.example.viewmodeldemo.model
 
-class TeamsRepository {
+object TeamsRepository {
 
     val matches = listOf(
         MatchModel(
